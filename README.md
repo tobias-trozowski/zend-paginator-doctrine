@@ -1,4 +1,4 @@
-# Zend Hydrator Doctrine
+# Zend Paginator Doctrine
 
 [![Build Status](https://travis-ci.com/tobias-trozowski/zend-paginator-doctrine.svg)](https://travis-ci.com/tobias-trozowski/zend-paginator-doctrine)
 
